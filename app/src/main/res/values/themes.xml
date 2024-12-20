@@ -1,0 +1,11 @@
+<resources>
+    <!-- Основная тема приложения -->
+    <style name="Theme.A23Practicheskaya.Screen" parent="android:Theme.Material.Light.NoActionBar">
+        <!-- Настройки вашей основной темы -->
+    </style>
+
+    <!-- Тема для сплэш-скрина -->
+    <style name="Theme.A23Practicheskaya.Screen.Splash" parent="android:Theme.Material.Light.NoActionBar">
+        <!-- Настройки для сплэш-скрина -->
+    </style>
+</resources>
